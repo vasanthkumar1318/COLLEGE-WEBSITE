@@ -1,0 +1,9 @@
+# Python scripts
+scrape.py
+download_images.py
+build_project.py
+update_manifest.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
